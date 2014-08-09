@@ -1,2 +1,4 @@
 GitRepositoriesView.GitDirectories=C\:\\GitHub\\LuxAgglomeration\\.git;
+RepositorySearchDialogDeepSearch=true
+RepositorySearchDialogSearchPath=C\:\\GitHub\\LuxAgglomeration\\LuxAgglomerationDBManager
 eclipse.preferences.version=1
